@@ -8,13 +8,13 @@ import java.util.Date;
 @Component
 public class User {
 
-    @Value("Pedro")
+    @Value("Luis")
     private String name;
 
-    @Value("Ramirez")
+    @Value("Piedras")
     private String lastName;
 
-    @Value("2000-01-15")
+    @Value("2002-10-17")
     private String birthDate;
 
     // Getters y Setters
